@@ -1,3 +1,3 @@
 FROM almalinux
 ENV SUTHOR="SHIYA" \
-    TRAINER= "SIVA"
+    TRAINER= "SIVA" \

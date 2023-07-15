@@ -1,5 +1,4 @@
 FROM almalinux
 LABEL AUTHOR="SAHIYA " \
-      COURSE="DOCKER"
+      COURSE="DOCKER" \
       DURATION="25 HRS"
-      

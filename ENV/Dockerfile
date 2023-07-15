@@ -1,3 +1,4 @@
 FROM almalinux
-ENV SUTHOR="SHIYA" \
+ENV SUTHOR= "SAHIYA" \
     TRAINER= "SIVA" \
+    DURATION= "15 HRS"

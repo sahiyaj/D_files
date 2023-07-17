@@ -1,2 +1,2 @@
 FROM almalinux
-RUN touch/tmp/hai.txt
+RUN touch /tmp/hai.txt
